@@ -1,0 +1,131 @@
+body{
+    background: url("a162a75806d118668bbbefe3e797200f.jpg");
+    background-attachment: fixed ;
+    background-size:cover;
+    
+}
+
+
+.P1{
+    COLOR:white;
+    font-family: Tahoma, sans-serif;
+    font-weight: BOLDER;
+    margin: 50px;
+    font-size: 35px;
+    
+}
+
+.amenu{
+    display: flex;
+    flex-direction: row;
+    opacity: 0;
+    border-color:#03020811;
+    border-style: solid;
+    background-color:#03020811;
+    width:200px;
+    position: absolute;
+    left:500px;
+    TOP:30PX;
+    transition: 0.7s;
+}
+.DIV2{
+    position: absolute;
+     left: 1250px;
+   top:45px;
+}
+.q5{
+    text-decoration: none;
+    color:white;
+   padding: 20px;
+    transition:  0.5s;
+    font-size: 14px;
+    font-family: Tahoma, sans-serif;
+    font-weight: bolder;
+    
+    
+}
+a.q5:hover{
+    padding-left: 40px;
+    color:white;
+    border-color:#03020879 ;
+    background-color:#05357e07 ;
+}
+.x{
+    color:white;
+    
+}
+.ul{
+    margin-left:20px ;
+    cursor: pointer;
+
+}
+.heloo{
+    position: absolute;
+    top:160px ;
+    left:-600px;
+    transition:5s;
+}
+.qq{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top:210px;
+    left: 680px;
+}
+.rr{
+ border-color:#030208cb;
+ border-style: solid;
+ text-align: center;
+ background-color:#0302089f;
+ border-radius: 20px;
+ text-decoration: none;
+
+}
+.rr:hover{
+    box-shadow: 3px 3px #0302089f;
+    background-color:#39eb03 ;
+    border-color:rgb(0, 240, 20);
+}
+.ww{
+    border-color:#030208cb;
+    border-style: solid;
+    text-align: center;
+    background-color:#0302089f;
+    border-radius: 20px;
+    text-decoration: none;
+
+
+}
+.ww:hover{
+    box-shadow: 3px 3px #0302089f;
+    background-color:#1054ac ;
+    border-color:#0f50a7;
+}
+
+.tt{
+    font-size: 30px;
+    font-family: Tahoma, sans-serif;
+    font-weight: bolder;
+    color: white;
+}
+.p2{
+    color:white;
+    font-size: 14px;
+    font-family: Tahoma, sans-serif;
+    font-weight: bolder;
+}
+.JABL{
+    color: white;
+    font-family: Tahoma, sans-serif;
+    position: absolute;
+    left: 785PX;
+    TOP:460PX;
+    font-weight: bolder;
+}
+.FINALY{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    LEFT:1270PX;
+    TOP:418PX;
+}
